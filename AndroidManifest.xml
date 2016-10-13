@@ -21,6 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+		<activity
+			android:label="List"
+			android:name=".ListActivity"/>
+		<activity
+			android:label="Button"
+			android:name=".ButtonActivity"/>
     </application>
 
 </manifest>
